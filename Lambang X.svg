@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 9.46 29.77">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1a1a1a;
+        stroke: #faedf3;
+        stroke-width: 1.97px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke: #bd4f7d;
+        stroke-width: 3.6px;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-6);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-7 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1.8" y1="4.22" x2="7.66" y2="4.22" gradientUnits="userSpaceOnUse">
+      <stop offset=".09" stop-color="#fcd5cd"/>
+      <stop offset=".35" stop-color="#fcc9c9"/>
+      <stop offset=".81" stop-color="#feabc1"/>
+      <stop offset="1" stop-color="#ff9cbd"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1.8" x2="7.66" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" y1="14.88" y2="14.88" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="1.8" y1="14.88" x2="7.66" y2="14.88" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" y1="25.54" y2="25.54" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-6" x1="1.8" y1="25.54" x2="7.66" y2="25.54" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <g>
+        <g>
+          <line class="cls-7" x1="1.8" y1="1.8" x2="7.66" y2="6.65"/>
+          <line class="cls-2" x1="7.66" y1="1.8" x2="1.8" y2="6.65"/>
+        </g>
+        <g>
+          <line class="cls-1" x1="1.8" y1="1.8" x2="7.66" y2="6.65"/>
+          <line class="cls-1" x1="7.66" y1="1.8" x2="1.8" y2="6.65"/>
+        </g>
+      </g>
+      <g>
+        <g>
+          <line class="cls-4" x1="1.8" y1="12.46" x2="7.66" y2="17.31"/>
+          <line class="cls-5" x1="7.66" y1="12.46" x2="1.8" y2="17.31"/>
+        </g>
+        <g>
+          <line class="cls-1" x1="1.8" y1="12.46" x2="7.66" y2="17.31"/>
+          <line class="cls-1" x1="7.66" y1="12.46" x2="1.8" y2="17.31"/>
+        </g>
+      </g>
+      <g>
+        <g>
+          <line class="cls-6" x1="1.8" y1="23.12" x2="7.66" y2="27.97"/>
+          <line class="cls-3" x1="7.66" y1="23.12" x2="1.8" y2="27.97"/>
+        </g>
+        <g>
+          <line class="cls-1" x1="1.8" y1="23.12" x2="7.66" y2="27.97"/>
+          <line class="cls-1" x1="7.66" y1="23.12" x2="1.8" y2="27.97"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
